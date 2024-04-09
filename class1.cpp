@@ -5,7 +5,7 @@ class class1{
 	char *c;
 	public:
 	class1(char *cc){
-		cout << "\ec\e[47;30m\n";
+		cout << "\ec\e[43;37m\n";
 		cout << "class init\n";
 		c=cc;
 	};
